@@ -1,6 +1,3 @@
-# LILA Games – Game Designer Assignment
-
-**Submitted by:** Adityajeet Yadav
 
 ---
 
